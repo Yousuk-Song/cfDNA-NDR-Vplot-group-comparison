@@ -1,0 +1,5 @@
+sample	group	path
+patient_01	Low	/data/outputs/patient_01
+patient_02	Low	/data/outputs/patient_02
+patient_03	High	/data/outputs/patient_03
+patient_04	High	/data/outputs/patient_04

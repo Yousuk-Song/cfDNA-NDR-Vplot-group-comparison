@@ -1,0 +1,7 @@
+manifest: /path/to/groups.tsv
+output_dir: /path/to/new_results
+channel: STAD
+sigma_bp: 20
+permutations: 99999
+seed: 20261110
+rscript: Rscript
